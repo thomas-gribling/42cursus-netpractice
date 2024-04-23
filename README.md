@@ -4,7 +4,7 @@
 
 <p align="center">
         <i>42 cursus - Rank 4</i><br>
-        Final grade: <b>?/100</b>
+        Final grade: <b>100/100</b>
 </p>
 
 # 📝 Subject
